@@ -1,0 +1,63 @@
+.images, .images tr, .images td, .images th{
+	background-color: white;
+	border: 7px solid #666262;
+	border-collapse: collapse;
+	color: black;
+}
+.images{
+	width: 873px;
+}
+.side_banners{
+	background-color: #f3961f;
+}
+.ST{
+	height: 100;
+}
+.nameD{
+	background-color: #4d4b4b;
+	border-bottom: 5px solid #cccccc;
+	width: 873px;
+	height: 40px;
+	padding-top: 5px;
+	margin-top: -5px;
+	margin-bottom: 30px;
+	font-size: 15px;
+}
+.name{
+	margin-top: 5px;
+}
+.costd{
+	display: inline-block;
+	position: absolute;
+}
+.costtable{
+	color: black;
+	width: 230px;
+	height:210px;
+	border: none;
+}
+.cost{
+	background-color: #ed771f;
+	border-bottom: 4px solid #d56c1c;
+	color: white;
+	font-size: 20px;
+}
+.description{
+	background-color: #f8f8f8;
+}
+.parametr{
+	background-color: #e0dfdf;
+	font-size:20px;
+}
+.TD{
+	display: inline-block;
+	width: 590px;
+	margin-left: 285px;
+}
+.TDT{
+	color: black;
+}
+.arrow{
+	margin-left: 20px;
+	margin-right: 20px;
+}
